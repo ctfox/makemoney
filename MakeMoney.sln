@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeMoney", "MakeMoney\MakeMoney.csproj", "{2758C941-67F9-4C79-97F3-4DEF56EEADC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2758C941-67F9-4C79-97F3-4DEF56EEADC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2758C941-67F9-4C79-97F3-4DEF56EEADC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2758C941-67F9-4C79-97F3-4DEF56EEADC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2758C941-67F9-4C79-97F3-4DEF56EEADC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
